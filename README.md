@@ -2,7 +2,7 @@
 
 
 
-1. We are looking to re-sod our lawn. It has a length of 25' and a width of 30', with Sod costing $1.45/sqft. Additionally, it will cost $180 to have the work done.  Write a function that finds the area of the lawn, the price of the Sod needed, and what the total cost will be to get the lawn redone. Our budget is $1,100 Then set a conditional that sets if the cost is higher or lower than our budget, and by how much either way.
+1. We are looking to re-sod our lawn. It has a length of 25' and a width of 30', with Sod costing $1.45/sqft. Additionally, it will cost $180 to have the work done.  Write a function that finds the area of the lawn, the price of the Sod needed, and what the total cost will be to get the lawn redone. Our budget is $1,100;  set a conditional that sees if the cost is higher or lower than our budget, and by how much either way.
 
 2. Overtime Calculator: A local business pays $25/hr for the first 40 hours worked each week, and time-and-a-half for each hour worked after that. Using your conditionals and mathematic operators, create a function that tells us how much someone would make if they worked 35hrs in a week, and how much if they worked 45hrs. 
 
