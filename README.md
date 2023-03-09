@@ -10,7 +10,7 @@
 3. Century From Year: the first century goes from the year 1 to the year 99, the 19th century went from the year 1801 to 1900, and the 20th century strecthed from 1901 to the year 2000. Using our Math functions, write a function that takes a year as an argument, and logs which century it is in
 
 
-4. Palindrome tester! Create a function that accepts a string as an argument. Using our String Methods and Conditonals, create a function to test whether or not the string is a Palindrome. After that - 'Go hang a salami, Im a lasanga hog'
+4. Palindrome tester! Create a function that accepts a string as an argument. Using our String Methods and Conditonals, create a function to test whether or not the string is a Palindrome. After that - 'Go hang a salami, Im a lasagna hog'
 
 5.  Write a function that loops over the following array of SEI students and prints out their name, and how many letters their name is, as long as the name is 4 or more letters long.  (you can copy this array into your code, don't worry about re-writing it)
 
